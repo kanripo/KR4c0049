@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
 #+PROPERTY: FILE SB04n0215-010增廣註釋音辯唐柳先生集-卷第十.
+
+# SB1_0686-088.png
+# page missing
 <pb:KR4c0049_SBCK_010-1a>¶
+# SB1_0686-089.png
 有聞彰徹轉金吾衛判官三歷御史績用弘大&KR0045;于天庭加¶
 檢校尚書禮部貟外郎換山南東道節度判官復轉郎中爲¶
 安南副都護賜紫金魚袋充經略副使遷檢校太子右庶子¶
